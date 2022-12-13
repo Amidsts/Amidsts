@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oriyomi289&label=Profile%20views&color=0e75b6&style=flat" alt="oriyomi289" /> </p>
 
-- 🔭 I’m currently working on **Some random APIs**
+- 🔭 I’m currently working on **ConText chat Application**
 
-- 🌱 I’m currently learning **Data structure and algorithm and database management**
+- 🌱 I’m currently learning **Data structure and algorithm**
 
-- 💬 Ask me about **Javascript,Object oriented programming, nodejs, typescript, mongodb database management, data structure and algorithm**
+- 💬 Ask me about **Html, Css, Javascript, nodejs, Express, typescript, Jest, data structure and algorithm**
 
 - 📫 How to reach me **mustaphaamidatoyindamola@gmail.com**
 
