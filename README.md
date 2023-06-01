@@ -16,12 +16,12 @@
 * Jest,
 * circleci | githubAction
 
-- 📫 Connect with me via
-- [Email](mustaphaamidatoyindamola@gmail.com),
+ 📫 **Connect with me via:**
+ 
 - [LinkedIn](https://www.linkedin.com/in/ameedat/),
 - [Twitter](https://twitter.com/A_ShakesPearl)
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1BvuOmW9exlpPm_DEojAsyzi60goqXzOV6XIxPoSygHk/edit?usp=drive_web&ouid=113829311621766660153)
+ 📄 Know about my experiences [here](https://docs.google.com/document/d/1BvuOmW9exlpPm_DEojAsyzi60goqXzOV6XIxPoSygHk/edit?usp=drive_web&ouid=113829311621766660153)
 
 - ⚡ Fun fact **I am proactive and Jovial**
 
