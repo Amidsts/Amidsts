@@ -8,13 +8,13 @@
  🌱
 
  💬 **Ask me about:**
-* Html | CSS, 
-* Javascript | Typescript, 
-* nodejs | Express, 
-* mongoDb | mongoose, 
-* postgresql | prisma, 
-* Jest,
-* circleci | githubAction
+* Html, CSS, 
+* Javascript, Typescript
+* nodejs, Express
+* mongoDb, mysql, postgresql 
+* Unit testing
+* CICD, Jenkins
+* AWS
 
  📫 **Connect with me via:**
  
